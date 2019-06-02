@@ -1,4 +1,4 @@
 Simple Calculator | [clickable reference](https://romanovskyart.github.io/Calculator/)
 ------------ | -------------
-# Screenshots full version
+# Screenshot full version
 ![](images/main.png)
